@@ -1,0 +1,36 @@
+_repo: The-Adventure-of-Two-Dutch-Dolls-and-a-Golliwogg-_16770
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Upton, Florence K. (Florence Kate)
+    birthdate: 1873
+    deathdate: 1922
+    gutenberg_agent_id: '6920'
+    url: http://www.gutenberg.org/2009/agents/6920
+    wikipedia: http://en.wikipedia.org/wiki/Florence_Kate_Upton
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Upton, Bertha
+    alias: Upton, Bertha Hudson
+    birthdate: 1849
+    deathdate: 1912
+    gutenberg_agent_id: '6919'
+    url: http://www.gutenberg.org/2009/agents/6919
+description: ''
+gutenberg_issued: '2005-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16770'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Toys -- Juvenile poetry'
+- !lcsh 'Dolls -- Juvenile poetry'
+- !lcc 'PZ'
+title: The Adventure of Two Dutch Dolls and a 'Golliwogg'
+url: http://www.gutenberg.org/ebooks/16770
